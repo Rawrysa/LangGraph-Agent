@@ -1,4 +1,4 @@
-# Graduate Programme Python Assessment
+# LangGraph-Agent
 
 This project is a robust, modular Python application for document and timesheet retrieval, prompt engineering, and vector database management. It features:
 
