@@ -1,0 +1,16 @@
+streamlit
+dotenv
+langchain_mistralai
+langgraph
+langchain
+langchain_core
+langchain-community
+langchain-huggingface
+sentence-transformers
+faiss-cpu
+psycopg[binary]
+langchain_postgres
+python-docx
+pdfminer.six
+pi-heif
+unstructured[local-inference]
